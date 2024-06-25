@@ -9,7 +9,7 @@ st.set_page_config(
 st.title("Blog Post Generator")
 
 openai_api_key = st.sidebar.text_input(
-    "OpenAI API Key",
+    "OpenAI API Keyyy",
     type = "password"
 )
 
