@@ -3,10 +3,10 @@ from langchain_openai import OpenAI
 from langchain import PromptTemplate
 
 st.set_page_config(
-    page_title = "Blog Post Generator"
+    page_title = "Blog Post GGGenerator"
 )
 
-st.title("Blog Post Generator")
+st.title("Blog Post Generatorrr")
 
 openai_api_key = st.sidebar.text_input(
     "OpenAI API Keyyy",
